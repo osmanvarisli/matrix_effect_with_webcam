@@ -1,3 +1,4 @@
+/*! os.js v00000.1 Osman VARIŞLI */
 let s = [];
 let say=0;
 function setup() {
@@ -28,7 +29,7 @@ function draw() {
       var r = capture.pixels[index];
       var g =capture.pixels[index + 1];
       var b =capture.pixels[index + 2];
-	  var ort=(r+g+b)/3
+      var ort=(r+g+b)/3
 		
 
       fill(r, g, b);
