@@ -1,5 +1,6 @@
 # Matrix Effect With Webcam
-The image I created by combining the Matrix effect with the webcam and another effect.
+The view created by combining the Matrix effect with the webcam and another effect.
+<br/>
 JavaScript + p5.js
 <br/>
 
