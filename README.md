@@ -8,5 +8,5 @@ JavaScript + p5.js
 
 
 # Demo
-<a href="https://redkit.net/osman/matrix_effect_with_webcam/index.htm" target="_blank">Click </a> this to watch demo site.
+<a href="https://redkit.net/osman/matrix_effect_with_webcam/index.htm" rel="nofollow">Click </a> this to watch demo site.
 
